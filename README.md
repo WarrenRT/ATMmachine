@@ -1,10 +1,5 @@
 
-
-# warrenrt.github.io-chicago
-website
-
-
-   <h1> Name </h1> 
+ <h1> Name </h1> 
    <B>ATM Machine </B>
             <br><br>
     
