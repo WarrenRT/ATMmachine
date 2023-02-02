@@ -1,6 +1,6 @@
  <B>ATM Machine </B>
             
- <div>    <img src="./ATM.jpg"></div>
+ <div>    <img src="./atm1.jpg"></div>
     
   
    <h1> Description </h1>
