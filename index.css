@@ -1,0 +1,46 @@
+.card{
+  color: rgb(155, 161, 166);
+  background-color: rgba(1, 26, 31, 0.64);
+}
+
+.card2{
+  color: #0d072b;
+  position: relative;
+}
+
+button{
+  color: #281483;
+  font-size: 16px;
+  box-shadow: #39816f;
+}
+
+button:hover{
+  color: #000000;
+  font-size: 16px;
+  box-shadow: #39816f;
+  background-color: #21619d;
+}
+
+.overlay{
+  position: absolute;
+  top: 23rem;
+  left: 173px;
+}
+
+.img1{
+  position: relative; width:40em;
+}
+
+@media only screen and (max-width: 780px) {
+
+.img1{
+  position: relative; width:30em;
+}
+
+.overlay{
+  position: absolute;
+   top: 16.5rem;
+   left: 130px;
+}
+
+}
