@@ -50,10 +50,9 @@ return(
 
 <div className="card">
 
-  <div class="card text-dark mb-3" style={{position: "relative" }}> 
-<img class="card-img-top" src={atm}  alt="" style={window.innerWidth <= 780  ?{position: "relative", width:"30em"} :{position: "relative", width:"40em"}}  />
-  <div id="overlay_text" 
-  style={window.innerWidth <= 780  ?  {position: "absolute", top: "16.5rem", left:"130px"} : {position: "absolute", top: "23rem", left:"173px"}}>
+  <div class="card2"> 
+<img class="img1" src={atm}  alt=""  />
+  <div className='overlay'>
  
 <form onSubmit={handleSubmit}>
        <div><h5>Balance:</h5>
